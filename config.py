@@ -1,0 +1,9 @@
+apache_log = "data/apache_access.log"
+firewall_log = "data/firewall.log"
+pdf_files = ["data/pdfs/file1.pdf","data/pdfs/file2.pdf","data/pdfs/file3.pdf"]
+report_file = "Security Report.txt"
+abuseipdb_url = "https://api.abuseipdb.com/api/v2/check"
+virustotal_url = "https://www.virustotal.com/api/v3/files"
+threat_hunting_url = "https://raman-singh84.github.io/threat-hunting/"
+abuseipdb_api_key = "abuseipdb_api_key"
+virustotal_api_key = "virustotal_api_key"
